@@ -150,8 +150,8 @@ ____
 
 5. **Get testnet tokens**:
    - Visit [Coston2 Faucet](https://coston2-faucet.towolabs.com/)
-   - Enter your wallet address
-   - Request testnet FLARE tokens
+   - Enter your wallet address and request C2FLR tokens
+ 
 
 ____
 
